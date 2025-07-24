@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PGH0621&layout=compact&exclude_repo=forked-repo1,forked-repo2)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={rmsgh0621}&theme=warm)
-
+<img src="http://mazandi.herokuapp.com/api?handle={rmsgh0621}&theme=dark"/>
