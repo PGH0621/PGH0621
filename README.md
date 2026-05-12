@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=pgh's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=PGH's%20Github&fontSize=42" />
 
 <!--
 **PGH0621/PGH0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
