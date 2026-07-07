@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PGH0621</h1>
+
 <p align="center">
   Computer Vision · Embedded Systems · App Development
 </p>
@@ -38,49 +38,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PGH0621&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PGH0621&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=PGH0621&show_icons=true&theme=default&hide_border=true&count_private=true" alt="PGH0621's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PGH0621&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PGH0621&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGH0621&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PGH0621&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PGH0621&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PGH0621&theme=default&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</p>
-
----
-
-### 📌 Project Highlights
-
-<p align="center">
-  <a href="https://github.com/PGH0621/recon3d">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PGH0621&repo=recon3d&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/PGH0621/Illegal-Parking-and-License-Plate-Recognition-Algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PGH0621&repo=Illegal-Parking-and-License-Plate-Recognition-Algorithm&theme=default&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/PGH0621/RC_car">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PGH0621&repo=RC_car&theme=default&hide_border=true" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
