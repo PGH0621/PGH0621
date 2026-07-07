@@ -3,12 +3,6 @@
   Computer Vision · Embedded Systems · App Development
 </p>
 
-<p align="center">
-  <a href="https://github.com/PGH0621">
-    <img src="https://komarev.com/ghpvc/?username=PGH0621&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ### 🙋 About Me
