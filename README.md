@@ -15,7 +15,6 @@
 
 - 🔭 Currently working on **3D reconstruction** and **computer vision** based recognition algorithms
 - 🚗 Building embedded projects like RC cars (C++) and vision-based license plate recognition
-- 📱 Also exploring **Android / Wear OS** app development
 - 🌱 Learning through open-source software labs and database projects
 - 📫 How to reach me: _add your email or contact link here_
 
