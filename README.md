@@ -7,31 +7,17 @@
 
 ### 🙋 About Me
 
-- 🔭 Currently working on **3D reconstruction** and **computer vision** based recognition algorithms
-- 🚗 Building embedded projects like RC cars (C++) and vision-based license plate recognition
-- 🌱 Learning through open-source software labs and database projects
-- 📫 How to reach me: _add your email or contact link here_
+## 🎓 Education
+
+| 기간 | 소속 | 과정 |
+|:---|:---|:---|
+| 2026.09 ~ | Incheon National University | 🎓 **M.S. in Embedded Systems Engineering** |
+| 2023.03 ~ 2026.08 | Incheon National University | 🏫 **B.S. in Embedded Systems Engineering** |
 
 ---
 
-### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 <div align="center">
 
 Language
@@ -40,7 +26,7 @@ Language
 
 Robotics & AI
 
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> 
 
 Embedded & Hardware
 
