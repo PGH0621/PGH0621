@@ -37,12 +37,14 @@ Tools
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> </div>
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PGH0621&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGH0621&layout=compact&langs_count=8&hide_border=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=PGH0621&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PGH0621&layout=compact&langs_count=8&hide_border=true" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=PGH0621&hide_border=true"/>
 
