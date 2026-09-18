@@ -1,6 +1,6 @@
 
 <p align="center">
-  Computer Vision · Embedded Systems · App Development
+  Computer Vision · Embedded Systems · Physical AI
 </p>
 
 ---
